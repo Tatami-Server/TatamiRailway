@@ -2,6 +2,6 @@
 畳鉄道(運営鉄道)で使用しているイラストなどの保管場所
 
 ## 駅名標について
-駅名標の生成には [TR246](https://github.com/TR246)さんの[Sigene駅名標ジェネレーター](https://tr246.github.io/Sigene/)を使用しています。
+駅名標の生成には [駅名標メーカー](http://aniani.me/station/?kind=jr_higashi2)を使用しています。
 
 ##
